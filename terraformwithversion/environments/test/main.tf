@@ -57,3 +57,4 @@ module "vm" {
   public_ip_address_id = module.publicip.public_ip_address_id
   resource_type          = "virtualmachine"
 }
+    # Simple Comment to run first pipleline
